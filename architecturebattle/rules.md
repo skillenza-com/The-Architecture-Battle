@@ -7,15 +7,15 @@ These are standard competition rules used at Hackathons. if you have any queries
 
 Remember that hackathons are like marathons. Some people compete but most people take part to better themselves and have fun. Whatever the reason is, make sure you're upholding the [hacker spirit](https://medium.com/@tfogo/the-spirit-of-hackathons-a0d81a65060a#.6cx5ac9t8).
 
-## Rules for MishMash India 2020
+## Rules for The Architecture Battle 
 
-1. Permissible team size for MishMash hackathon is 1 to 4 Members.
+1. Permissible team size for MishMash hackathon is 1 Member.
 2. Teams should be made up exclusively of people who are not organisers, volunteers, judges, sponsors, or in any other privileged position of the program.
 3. Teams can of course gain advice and support from organisers, volunteers, sponsors, and others over the common online platform moderated by Skillenza Team.
 4. Any project should be built during the Online Hackathon Phase only. However, Adding new features to existing projects and improvising on it is allowed.
 5. Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the rules and is not allowed.
 6. Teams must submit their projects by 31st March, 11:55 PM IST over GitHub and Skillenza Platform. Any projects being submitted after the deadline will not be accepted. 
-7. Projects that violate the Code of Conduct will be disqualified and can no longer be a part of MishMash Hackathon. Please refer to the [Code of Conduct](https://skillenza.com/challenge/mishmash-hackathon-bangalore) tab over Skillenza Platform
+7. Projects that violate the Code of Conduct will be disqualified and can no longer be a part of MishMash Hackathon. Please refer to the [Code of Conduct](https://skillenza.com/challenge/architecture-hackathon) tab over Skillenza Platform
 8. Teams can be disqualified from the competition at the organisers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the Code of Conduct, or other unsporting behaviour.
 9. Being an Open Source Hackathon, each and every project developed at MishMash should be open source having appropriate License Documents to avoid any unauthorised use of the same.
 
