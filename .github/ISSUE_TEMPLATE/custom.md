@@ -18,9 +18,9 @@ NAME - PROJECT NAME - THEME NAME
 
 3. **Short Project Description:** _One line crisp description of your project_
 
-4. **Demo Link:** _(if any, this might contain a website/ mobile application link/ short video, etc.)_
+4. **Design Document:** _(if any, this might contain a website/ mobile application link/ short video, etc.)_
 
-5. **Presentation Link:** Provide us the link to for your power point presentation. 
+5. **Architecture Diagram:** _(Provide us the link to for your power point presentation)_
 
 6. **Azure Services Used-** Kindly mention the Azure Services you used, or intended to use but weren't able to because of the overusage of Azure platform. 
 
