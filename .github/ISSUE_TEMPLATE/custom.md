@@ -24,7 +24,6 @@ NAME - PROJECT NAME - THEME NAME
 
 6. **Azure Services Used-** Kindly mention the Azure Services you used, or intended to use but weren't able to because of the overusage of Azure platform. 
 
-7. **Repository Link(optional):** _Provide us the link to your code. Please note that this is optional. Share the code only if you wish to share.
 
 ## 🔥 Your Pitch
 _Kindly write a pitch for your project. Please do not use more than 500 words_
